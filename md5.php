@@ -5,7 +5,7 @@ if ( isset($_GET['encode']) ) {
 }
 ?>
 <!DOCTYPE html>
-<head><title>Mohitth (RA1911028010017)</title></head>
+<head><title>Mohitth MD5</title></head>
 <body>
 <h1>MD5 Maker</h1>
 <p>MD5: <?= htmlentities($md5); ?></p>
